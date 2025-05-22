@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/icandoit/static/css/main.d1e6270d.css",
+    "main.js": "/icandoit/static/js/main.9c689421.js",
+    "static/js/453.934c171b.chunk.js": "/icandoit/static/js/453.934c171b.chunk.js",
+    "index.html": "/icandoit/index.html",
+    "main.d1e6270d.css.map": "/icandoit/static/css/main.d1e6270d.css.map",
+    "main.9c689421.js.map": "/icandoit/static/js/main.9c689421.js.map",
+    "453.934c171b.chunk.js.map": "/icandoit/static/js/453.934c171b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e6270d.css",
+    "static/js/main.9c689421.js"
+  ]
+}
